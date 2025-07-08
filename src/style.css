@@ -23,6 +23,8 @@ body {
     margin: 0;
     padding: o;
     font-family: 'Roboto', sans-serif;
+    font-size : 1 rem;
+    color:#444444;
 }
 
 #navbar {
